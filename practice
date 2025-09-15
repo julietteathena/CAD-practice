@@ -1,0 +1,5 @@
+#attempt to add fusion file to github repository...
+
+git init        
+git add Andrew Bot v36.step # Replace with your actual filename and extension
+git commit -m "Initial commit of Fusion 360 design"
